@@ -1,2 +1,8 @@
-# capstone1_team_stegosaurus
-Capstone 1 project for GA Tech Data Bootcamp
+# Predicting the Next Big Book to Movie Adaptation
+
+# Description
+
+# Team Members
+Ashley Howell Gates (PM)
+Matthew Bishop
+Lauren To
