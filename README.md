@@ -1,4 +1,4 @@
-# Predicting the Next Big Book-to-Film Adaptation
+# Do Book Adaptations Perform Well as Movies?
 
 # Description
 Making feature films is a high-risk venture. Studios invest millions of dollars creating the next blockbuster with no way of knowing up-front whether their huge investments will turn a profit.  When deciding whether to fund a particular movie, what are some pieces of information that would help ensure that the film would be successful?  It would help to know that you are investing in a good story, with memorable characters.  Something that will connect with the audience.  Our project explores the relationship between books and movies to answer the question: do book adaptations perform well as movies?  What does the data tell us about how book adaptations perform after being released as movies, and are they reliably better than the average movie?
