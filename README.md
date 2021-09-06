@@ -4,7 +4,7 @@
    =================
 
   1. [Background](#background)
-  2. [About This Project](#about)
+  2. [About This Project](#about-this-project)
        - [Technologies & Methods](#technologies--methods)
        - [Preview](#preview)
        - [Results](#results)
