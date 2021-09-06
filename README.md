@@ -37,7 +37,7 @@ To analyze the success of book adaptations, we performed EDA on over 45,000 film
 
 ### Results
 <details>
-  <summary>Details</summary>
+  <summary>Click to expand</summary>
 
    1. Hypothesis: Book to film adaptations have higher ratings than most films. **Result: True**
  
