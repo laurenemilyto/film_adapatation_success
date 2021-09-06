@@ -29,13 +29,14 @@ To analyze the success of book adaptations, we performed EDA on over 45,000 film
      - Scipy
 - Data Visualization
 - Statistical Inference
-- Linear Regressions, One-Sided T-tests & ANOVA
+- Linear Regressions, One-Tailed T-tests, Shapiro–Wilk Test & ANOVA
      
 
 ## Preview
 
 
 ## Results
+![image](https://user-images.githubusercontent.com/75763314/132149924-41c355d4-b4e3-4268-ad7f-204761d4c9e2.png)
 
 
 ## Source Data
@@ -43,7 +44,7 @@ Raw Data: [Link](https://drive.google.com/drive/u/0/folders/1bF9VaI-7scQclkEFgli
 
 ## Presentation
 
-Presentation: [Link]()
+Presentation: [Link](https://github.com/laurenemilyto/film_adapatation_success/blob/main/presentation.pptx)
 
 ## Contributors
 - [Ashley Howell](https://github.com/[ahowellgates])
