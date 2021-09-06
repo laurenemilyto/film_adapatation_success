@@ -50,12 +50,12 @@ The p-value is greater than .05 so no effect was observed between genres. We can
 
    3. Hypothesis: The number of book reviewers and rating for adaptation films are correlated. **Result: False
    
-<img src="https://user-images.githubusercontent.com/75763314/132150294-87b113dc-8825-4e65-8e9a-dfab1c04f220.png" width=500 align=center>
+<img src="https://user-images.githubusercontent.com/75763314/132150294-87b113dc-8825-4e65-8e9a-dfab1c04f220.png" width=300 align=center>
 From the pattern observed from the scatterplot and regression, the low rvalue shows that there is not a relationship between the number of pages in a novel and the rating of the film adaptation. The r squared value of 1% can be interpreted as the length of the book explains 1% of the variation in film adaptation scores. The relationship between these variables is not very meaningful.<br>
 
    4. Hypothesis: The number of pages for adaptation films are correlated. **Result: False**
 
-<img src="https://user-images.githubusercontent.com/75763314/132150324-fff36189-7a4b-4b1e-bed0-88bbc22af80a.png" width=500 align=center>
+<img src="https://user-images.githubusercontent.com/75763314/132150324-fff36189-7a4b-4b1e-bed0-88bbc22af80a.png" width=300 align=center>
 From the pattern observed from the scatterplot and regression, the low rvalue shows that there is not a relationship between the number of goodreads reviews and the rating of the film adaptation. The r squared value of 4% can be interpreted as the book rating explains 4% of the variation in film adaptation scores. The relationship between these variables is not very meaningful.<br>
 
 ## Source Data
