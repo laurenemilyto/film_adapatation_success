@@ -22,7 +22,7 @@ Our team loves reading, and we also enjoy films. In this project, we explored th
 ## About This Project
 To analyze the success of book adaptations, we performed EDA on over 45,000 films from March 1910 to July 2017 using a dataset originating from the TMDB Open API. In this dataset, there were 829 films based on novels. To extract insights on the books themselves we combined this data with Goodreads data such as book publisher, page count, and book rating. Matching the two datasets on ‘title’, 105 matching movies and books resulted that were used in this analysis. 
 
-## Technologies & Methods
+### Technologies & Methods
 - Python
      - Pandas
      - Matplotlib
@@ -32,10 +32,12 @@ To analyze the success of book adaptations, we performed EDA on over 45,000 film
 - Linear Regressions, One-Tailed T-tests, Shapiro–Wilk Test & ANOVA
      
 
-## Preview
+### Preview
 <img src="https://user-images.githubusercontent.com/75763314/132150877-986048a6-5b7a-43e4-90eb-5e7bf685cba0.png" width=500 align=center>
 
-## Results
+### Results
+<details>
+  <summary>Details</summary>
 
    1. Hypothesis: Book to film adaptations have higher ratings than most films. **Result: True**
  
@@ -57,8 +59,9 @@ From the pattern observed from the scatterplot and regression, the low rvalue sh
 
 <img src="https://user-images.githubusercontent.com/75763314/132150324-fff36189-7a4b-4b1e-bed0-88bbc22af80a.png" width=300 align=center>
 From the pattern observed from the scatterplot and regression, the low rvalue shows that there is not a relationship between the number of goodreads reviews and the rating of the film adaptation. The r squared value of 4% can be interpreted as the book rating explains 4% of the variation in film adaptation scores. The relationship between these variables is not very meaningful.<br>
-
-## Source Data
+</details>
+   
+### Source Data
 Raw Data: [Link](https://drive.google.com/drive/u/0/folders/1bF9VaI-7scQclkEFgliX6AUroOKSVfCw)
 
 ## Presentation
