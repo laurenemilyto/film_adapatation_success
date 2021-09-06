@@ -37,13 +37,16 @@ To analyze the success of book adaptations, we performed EDA on over 45,000 film
 
 ## Results
 #### Hypotheses
-   1. Book to film adaptations have higher ratings than most films 
-   2. Horror adaptation films have higher ratings than other film genres 
-   3. The number of book reviewers and rating for adaptation films are correlated 
-   4. The number of pages for adaptation films are correlated 
+   1. Book to film adaptations have higher ratings than most films - True
+ 
+<img src="https://user-images.githubusercontent.com/75763314/132149924-41c355d4-b4e3-4268-ad7f-204761d4c9e2.png" width=500 align=center>
 
-<img src="https://user-images.githubusercontent.com/75763314/132149924-41c355d4-b4e3-4268-ad7f-204761d4c9e2.png" width=300 align=center>
+   2. Horror adaptation films have higher ratings than other film genres - True
+  
+<img src=(https://user-images.githubusercontent.com/75763314/132150196-c173839d-00e7-47ee-bb87-c8fa5030da48.png" width=500 align=center>
 
+   3. The number of book reviewers and rating for adaptation films are correlated - False
+   4. The number of pages for adaptation films are correlated - False
 
 ## Source Data
 Raw Data: [Link](https://drive.google.com/drive/u/0/folders/1bF9VaI-7scQclkEFgliX6AUroOKSVfCw)
