@@ -5,9 +5,9 @@
 
   * [Background](#background)
   * [About This Project](#about)
-     * [Preview](#preview)
-        * [Results](#results)
-        * [Source Data:](#source)
+   * [Preview](#preview)
+   * [Results](#results)
+   * [Source Data:](#source)
   * [Presentation](#presentation)
   * [Contributors](#contributors)
 
