@@ -6,7 +6,7 @@
   * [Background](#background)
   
    1. [About This Project](#about)
-       - [Technologies & Methods] (#technologies)
+       - [Technologies & Methods](#technologies)
        - [Preview](#preview)
        - [Results](#results)
        - [Source Data:](#source)
@@ -47,6 +47,6 @@ Raw Data: [Link](https://drive.google.com/drive/u/0/folders/1bF9VaI-7scQclkEFgli
 Presentation: [Link]()
 
 ## Contributors
-[Ashley Howell](https://github.com/[ahowellgates])
-[Matthew Bishhop](https://github.com/[github handle])
+- [Ashley Howell](https://github.com/[ahowellgates])
+- [Matthew Bishhop](https://github.com/[github handle])
 
