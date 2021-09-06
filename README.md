@@ -27,6 +27,7 @@ To analyze the success of book adaptations, we performed EDA on over 45,000 film
      - Pandas
      - Matplotlib
      - Scipy
+     - Numpy
 - Data Visualization
 - Statistical Inference
 - Linear Regressions, One-Tailed T-tests, Shapiro–Wilk Test & ANOVA
