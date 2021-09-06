@@ -4,18 +4,14 @@
    =================
 
   * [Background](#background)
-  <details>
   
-   <summary>About This Project</summary>
    1. [About This Project](#about)
        - [Technologies & Methods] (#technologies)
        - [Preview](#preview)
        - [Results](#results)
        - [Source Data:](#source)
-   
-  <details>
-  * [Presentation](#presentation)
-  * [Contributors](#contributors)
+  2. [Presentation](#presentation)
+  3. [Contributors](#contributors)
 
 ## Background 
 Making feature films is a high-risk venture. Studios invest millions of dollars creating the next blockbuster with no way of knowing up-front whether their huge investments will turn a profit. When deciding whether to fund a particular movie, what are some pieces of information that would help ensure that the film would be successful? It would help to know that you are investing in a good story, with memorable characters. Something that will connect with the audience. 
