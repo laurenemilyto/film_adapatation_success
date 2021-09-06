@@ -5,7 +5,7 @@
 
   1. [Background](#background)
   2. [About This Project](#about)
-       - [Technologies & Methods](#technologies_&_methods)
+       - [Technologies & Methods](#technologies--methods)
        - [Preview](#preview)
        - [Results](#results)
        - [Source Data](#sourcedata)
