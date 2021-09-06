@@ -36,17 +36,23 @@ To analyze the success of book adaptations, we performed EDA on over 45,000 film
 
 
 ## Results
-#### Hypotheses
+
    1. Book to film adaptations have higher ratings than most films - True
  
 <img src="https://user-images.githubusercontent.com/75763314/132149924-41c355d4-b4e3-4268-ad7f-204761d4c9e2.png" width=500 align=center>
+Looking at the scatter plot, the sample is a good representation of the population, although the sample ratings are primarily between 5 & 10, whereas the population ratings have a much wider variance. Looking at the histogram, data is normally distributed except for a number of films that received a zero rating. The greatest frequency for sample is ~7, whereas the greatest frequency for population is closer to 6.
 
    2. Horror adaptation films have higher ratings than other film genres - True
   
-<img src=(https://user-images.githubusercontent.com/75763314/132150196-c173839d-00e7-47ee-bb87-c8fa5030da48.png" width=500 align=center>
+<img src="https://user-images.githubusercontent.com/75763314/132150196-c173839d-00e7-47ee-bb87-c8fa5030da48.png" width=500 align=center>
 
    3. The number of book reviewers and rating for adaptation films are correlated - False
+   
+<img src="https://user-images.githubusercontent.com/75763314/132150294-87b113dc-8825-4e65-8e9a-dfab1c04f220.png" width=500 align=center>
+
    4. The number of pages for adaptation films are correlated - False
+
+<img src="https://user-images.githubusercontent.com/75763314/132150324-fff36189-7a4b-4b1e-bed0-88bbc22af80a.png" width=500 align=center>
 
 ## Source Data
 Raw Data: [Link](https://drive.google.com/drive/u/0/folders/1bF9VaI-7scQclkEFgliX6AUroOKSVfCw)
@@ -59,4 +65,3 @@ Presentation: [Link](https://github.com/laurenemilyto/film_adapatation_success/b
 - [Ashley Howell](https://github.com/[ahowellgates])
 - [Matthew Bishhop](https://github.com/[mabishop84])
 - [Lauren To](https://github.com/[laurenemilyto])
-
