@@ -16,7 +16,7 @@
 ## Background 
 Making feature films is a high-risk venture. Studios invest millions of dollars creating the next blockbuster with no way of knowing up-front whether their huge investments will turn a profit. When deciding whether to fund a particular movie, what are some pieces of information that would help ensure that the film would be successful? It would help to know that you are investing in a good story, with memorable characters. Something that will connect with the audience. 
 
-![forrest-gump](https://images.app.goo.gl/PoH6kaYjqs9venTm9)
+![forrest-gump](https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg)
 
 In this project, our book and movie loving team explored the relationship between the two to answer the question: do book adaptations perform as well as movies? What does the data tell us about how book adaptations perform after being released as movies, and are they reliably better than the average movie?
 
@@ -48,5 +48,6 @@ Presentation: [Link]()
 
 ## Contributors
 - [Ashley Howell](https://github.com/[ahowellgates])
-- [Matthew Bishhop](https://github.com/[github handle])
+- [Matthew Bishhop](https://github.com/[mabishop84])
+- [Lauren To](https://github.com/[laurenemilyto])
 
