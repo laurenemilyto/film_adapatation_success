@@ -4,10 +4,16 @@
    =================
 
   * [Background](#background)
-  * [About This Project](#about)
-   * [Preview](#preview)
-   * [Results](#results)
-   * [Source Data:](#source)
+  <details>
+  
+   <summary>About This Project</summary>
+   1. [About This Project](#about)
+       - [Technologies & Methods] (#technologies)
+       - [Preview](#preview)
+       - [Results](#results)
+       - [Source Data:](#source)
+   
+  <details>
   * [Presentation](#presentation)
   * [Contributors](#contributors)
 
@@ -20,6 +26,16 @@ In this project, our book and movie loving team explored the relationship betwee
 
 ## About This Project
 To analyze the success of book adaptations, we performed EDA on over 45,000 films from March 1910 to July 2017 using a dataset originating from the TMDB Open API. In this dataset, there were 829 films based on novels. To extract insights on the books themselves we combined this data with Goodreads data such as book publisher, page count, and book rating. Matching the two datasets on ‘title’, 105 matching movies and books resulted that were used in this analysis. 
+
+## Technologies & Methods
+- Python
+     - Pandas
+     - Matplotlib
+     - Scipy
+- Data Visualization
+- Statistical Inference
+- Linear Regressions, One-Sided T-tests & ANOVA
+     
 
 ## Preview
 
@@ -35,6 +51,6 @@ Raw Data: [Link](https://drive.google.com/drive/u/0/folders/1bF9VaI-7scQclkEFgli
 Presentation: [Link]()
 
 ## Contributors
-[Ashley Howell](https://github.com/[handle])
+[Ashley Howell](https://github.com/[ahowellgates])
 [Matthew Bishhop](https://github.com/[github handle])
 
